@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-11T16:48:03 IST" name="Default suite" finished-at="2024-08-11T16:48:52 IST" duration-ms="49164">
+    <groups>
+    </groups>
+    <test started-at="2024-08-11T16:48:03 IST" name="Default test" finished-at="2024-08-11T16:48:52 IST" duration-ms="49164">
+      <class name="com.tricentis.systemtesting.EndToEnd_Test">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:02 IST" name="bsConfig" finished-at="2024-08-11T16:48:03 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:03 IST" name="bcConfig" finished-at="2024-08-11T16:48:12 IST" duration-ms="8922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:12 IST" name="bmConfig" finished-at="2024-08-11T16:48:20 IST" duration-ms="7816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="end_To_End_Test()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:20 IST" name="end_To_End_Test" finished-at="2024-08-11T16:48:50 IST" duration-ms="30637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_To_End_Test -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:50 IST" name="amConfig" finished-at="2024-08-11T16:48:51 IST" duration-ms="1261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:51 IST" name="acConfig" finished-at="2024-08-11T16:48:52 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.tricentis.systemtesting.EndToEnd_Test@77c2494c]" started-at="2024-08-11T16:48:52 IST" name="asConfig" finished-at="2024-08-11T16:48:52 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- com.tricentis.systemtesting.EndToEnd_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
